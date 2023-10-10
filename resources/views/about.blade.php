@@ -37,7 +37,7 @@
 	</section>
 
 	<section class="team">
-		<h1>Meet Our Team</h1>
+		<h1>Meet Our Group</h1>
 		<div class="team-cards">
 			<!-- Cards here -->
 			<!-- Card 1 -->
